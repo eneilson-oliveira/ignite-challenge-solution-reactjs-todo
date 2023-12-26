@@ -24,3 +24,4 @@ export function Header({ tasksCounter, checkedTasksCounter }: Props) {
     </header>
   )
 }
+

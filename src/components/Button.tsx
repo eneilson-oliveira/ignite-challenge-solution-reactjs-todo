@@ -11,4 +11,4 @@ export function Button({ children, ...rest }: Props) {
       {children}
     </button>
   )
-}
+} 
